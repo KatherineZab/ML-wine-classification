@@ -34,5 +34,5 @@ Python • NumPy • pandas • scikit-learn • matplotlib • seaborn
 
 | Correlation Heatmap | Pairplot | Feature Distributions | Model Predictions |
 |----------------------|-----------|-----------------------|-------------------|
-| ![Heatmap](images/heatmap.png) | ![Pairplot](images/pairPlot.png) | ![Feature Distribution](images/featureDistribution.png) | ![Predictions](images/predictions.png) |
+| ![Heatmap](https://github.com/KatherineZab/ML-wine-classification/blob/main/images/heatmap.png?raw=true) | ![Pairplot](https://github.com/KatherineZab/ML-wine-classification/blob/main/images/pairPlot.png?raw=true) | ![Feature Distribution](https://github.com/KatherineZab/ML-wine-classification/blob/main/images/featureDistribution.png?raw=true) | ![Predictions](https://github.com/KatherineZab/ML-wine-classification/blob/main/images/predictions.png?raw=true) |
 
