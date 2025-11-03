@@ -1,4 +1,4 @@
-# 🍷 Assignment 2 — Supervised Learning Flow  
+# 🍷  Supervised Learning Flow  
 
 A full **supervised learning pipeline** using the classic *Wine dataset*:  
 from preprocessing and visualization to model training and evaluation.
@@ -30,9 +30,8 @@ Python • NumPy • pandas • scikit-learn • matplotlib • seaborn
 
 ---
 
-## 📸 Visuals  
+## 📸 Visuals
 
 | Correlation Heatmap | Pairplot | Feature Distributions | Model Predictions |
 |----------------------|-----------|-----------------------|-------------------|
-| ![Heatmap](https://github.com/KatherineZab/ML-wine-classification/blob/main/images/heatmap.png?raw=true) | ![Pairplot](https://github.com/KatherineZab/ML-wine-classification/blob/main/images/pairPlot.png?raw=true) | ![Feature Distribution](https://github.com/KatherineZab/ML-wine-classification/blob/main/images/featureDistribution.png?raw=true) | ![Predictions](https://github.com/KatherineZab/ML-wine-classification/blob/main/images/predictions.png?raw=true) |
-
+| ![Heatmap](https://github.com/KatherineZab/ML-wine-classification/blob/main/images/heatmap.png?raw=1) | ![Pairplot](https://github.com/KatherineZab/ML-wine-classification/blob/main/images/pairPlot.png?raw=1) | ![Feature Distribution](https://github.com/KatherineZab/ML-wine-classification/blob/main/images/featureDIstribution.png?raw=1) | ![Predictions](https://github.com/KatherineZab/ML-wine-classification/blob/main/images/predictions.png?raw=1) |
